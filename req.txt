@@ -1,0 +1,4 @@
+how to create a typescript project with nodejs 
+npx tsc --init if this not work 
+then just install typescript globally 
+npm install typescript -g
